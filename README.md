@@ -1,7 +1,7 @@
 [![LG_logo](https://cdn.mb24.fi/Logot/Localghost/localghost_oranssi.png)](https://localghost.fi)
 
 
-LocalghostFI:n palveluihin kuuluvat verkkoasennukset- ja korjaukset, tietokonehuolto, webhotellit, pelipalvelimet sekä 3D-tulostuspalvelua.
+LocalghostFI:n palveluihin kuuluvat verkkoasennukset- ja korjaukset, tietokonehuolto, webhotellit, pelipalvelimet, ohjelmointi sekä 3D-tulostuspalvelua.
 
 ---
 LocalghostFI somet / linkit:
