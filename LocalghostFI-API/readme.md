@@ -4,7 +4,7 @@ Rajapinta käsittelee seuraavia:
 ```
 - Asiakastiedot palvelinten välillä
 - RTMP yhteydet
-- Blackmagic Desing Atem striimaus kohteet
+- Blackmagic Design Atem striimaus kohteet
 - VOIP-järjestelmä
 - WooCommerce kauppojen yhdistämisen
 - Discord, Zendesk ja Zapier API integraatiot
