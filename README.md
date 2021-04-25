@@ -12,13 +12,12 @@ LocalghostFI somet / linkit:
 
 ---
 LocalghostFI verkkokaupat:     
-[Tavarakauppa](https://localghost.fi/store)     
-[Palvelimet ja ohjelmat](https://store.localghost.fi)        
+[Verkkokauppa / Web Shop](https://localghost.fi/store)     
 
 ---     
 LocalghostFI yhteystiedot:    
 
-Sähköposti: [contact@localghost.fi](mailto:contact@localghost.fi)    
+Sähköposti / Email: [contact@localghost.fi](mailto:contact@localghost.fi)    
 [Discord](https://discord.fleromedia.fi)    
 
 ---
