@@ -28,7 +28,7 @@ h3 {color: #FF7200;}
  
  <?php
     $units = explode(' ', 'B KB MB GB TB PB');
-    $SIZE_LIMIT = 31138496953; // 5 GB change it to 10 Gb
+    $SIZE_LIMIT = 31138496953; // 29GB
     $disk_used = foldersize("./Videos");
 
     $disk_remaining = $SIZE_LIMIT - $disk_used;
