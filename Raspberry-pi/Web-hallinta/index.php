@@ -32,11 +32,16 @@ h3 {color: #FF7200;}
     $disk_used = foldersize("./Videos");
 
     $disk_remaining = $SIZE_LIMIT - $disk_used;
+    $ip_osoite = $_SERVER['SERVER_ADDR'];
 
     echo("<p style='color: #FF7200;'>"); 
     echo('Kansiossa materiaalia: ' . format_size($disk_used) . '<br>');
-    echo( 'Levyllä vapaatatilaa: ' . format_size($disk_remaining) . '<br><hr>');
+    echo( 'Levyllä vapaatatilaa: ' . format_size($disk_remaining) . '<br>');
     echo("</p>");
+
+    echo "<p style='color: #FF7200;'>";
+    echo "Palvelimen IP-osoite: $ip_osoite";
+    echo "</p><hr>";
 
 
 function foldersize($path) {
