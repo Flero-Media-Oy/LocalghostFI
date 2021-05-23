@@ -6,7 +6,7 @@ Lisää /etc/sudoers tiedostoon oikeus www-data:lle
 
 Myös jos ajat <RPI IP>/reboot.php. RPI käynnistyy uudelleen.
   
-  ![]()   
+  ![](https://www.cdn.mb24.fi/Kuvat/RPI_Hallinta.PNG)   
 
   
 Koodi on luotu PlayoutBee ohjelmalle josta puuttuu Reboot komento (Versio: 0.9.2). Koodit toimii myös normaalissa Linux käyttöjärjestelmissä. Tätä voi hyödyntää jos RPI on hankalassa paikassa tai Raspberry Pi:lle ei ole virta nappia.     
