@@ -13,7 +13,7 @@ h3 {color: #FF7200;}
 </head>
 <body>
 
-<h3>RPI hallintapaneeli :3</h3>
+<h3>RPI hallintapaneeli</h3>
 <p>
 <form action="reboot.php" method="get">
   <input type="submit" value="Uudelleen käynnistä">
